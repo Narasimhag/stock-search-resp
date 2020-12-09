@@ -1,0 +1,53 @@
+#ticker {
+    font-weight: 650;
+    font-size: 3em;
+}
+
+#ticker > svg {
+    font-size: 0.5em;
+    font-weight: 300;
+}
+
+#cname {
+    font-size: 1.3em;
+    font-weight: 500;
+}
+
+#price {
+    display: block;
+    font-weight: 650;
+    font-size: 3em;
+}
+
+#change {
+    font-size: 1.3em;
+    font-weight: 500;
+}
+
+img {
+    
+    max-height: 100%;
+    max-width: 100%;
+}
+
+#modal-news-title{
+    display: block;
+    font-weight: 500;
+    font-size: 2em;
+}
+
+#modal-sub-title{
+    
+    font-weight: 400;
+    font-size: 1.5em;
+}
+#newsTitle {
+    
+    font-weight: 500;
+    font-size: 1.5em;
+}
+
+.social div{
+    float: left;
+    clear: none;
+}
